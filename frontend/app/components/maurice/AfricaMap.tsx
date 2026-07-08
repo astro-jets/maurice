@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import { motion } from 'framer-motion';
-import { gsap } from 'gsap';
+import gsap from "gsap";
 
 // Geographically calibrated coordinate mapping relative to the 512x512 canvas
 const locations = [
