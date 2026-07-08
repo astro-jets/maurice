@@ -113,7 +113,7 @@ export default function Hero() {
                 <div className="lg:col-span-5 relative w-full max-w-md lg:max-w-none mx-auto mt-8 lg:mt-0 px-4 sm:px-10 lg:px-0">
                     <div className="hero-image-wrapper relative rounded-[40px] sm:rounded-[50px] overflow-hidden border border-white/10 bg-stone-900 shadow-2xl">
                         <img
-                            src="/images/maurice.jpg"
+                            src="/maurice.jpg"
                             alt="Maurice - Executive Consultant"
                             className="w-full h-[380px] sm:h-[480px] lg:h-[540px] object-cover object-top filter grayscale contrast-110 brightness-90 hover:grayscale-0 transition-all duration-700"
                         />
