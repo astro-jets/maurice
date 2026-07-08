@@ -23,8 +23,5 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "strict": true
-  },
-  "ssr": {
-    "noExternal": ["gsap"]
   }
 }
