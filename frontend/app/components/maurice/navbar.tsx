@@ -18,17 +18,17 @@ export default function Navbar() {
 
                     <div className="hidden lg:flex gap-10">
 
-                        <Link to="/maurice">Home</Link>
+                        <Link to="">Home</Link>
 
-                        <Link to="/maurice/services">Services</Link>
+                        <Link to="/services">Services</Link>
 
-                        <Link to="/maurice/insights">Insights</Link>
+                        <Link to="/insights">Insights</Link>
 
-                        <Link to="/maurice/about">About</Link>
+                        <Link to="/about">About</Link>
 
-                        <Link to="/maurice/record">Record</Link>
+                        <Link to="/record">Record</Link>
 
-                        <Link to="/maurice/contact">Contact</Link>
+                        <Link to="/contact">Contact</Link>
 
                     </div>
 
